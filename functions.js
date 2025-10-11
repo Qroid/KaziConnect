@@ -1,5 +1,3 @@
-const APP_ID = '100634'; // User's requested App ID
-
 // --- 1. MOCK DATA ---
 const initialJobs = [
     {
